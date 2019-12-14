@@ -39,7 +39,7 @@ education:
   - course: Exchange Student
     institution: Georgia Institute of Technology
     year: 2017
-  - course: BSc in Aerospace Engineering
+  - course: B.Sc. in Aerospace Engineering
     institution: Delft University of Technology
     year: 2018
 

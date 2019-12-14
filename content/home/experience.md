@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Honors Student and Studen Researcher"
+  title = "Honors Student and Student Researcher"
   company = "Delft Unversity of Technology"
   
   company_url = ""
