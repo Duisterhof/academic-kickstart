@@ -25,8 +25,11 @@ bio:  Motivated  and  experienced  student  in  the  field  of  autonomous  aeri
 interests:
 - Resource Constrained Robots
 - AI on Edge
+- High-Throughput Computing
 - Deep Reinforcement Learning
-- High-throughput computing
+- Neuroevolution
+- Swarming
+
 
 education:
   courses:  
