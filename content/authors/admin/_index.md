@@ -16,7 +16,6 @@ role: Visiting Research Fellow
 organizations:
 - name: Harvard University
   url: ""
-- name: Delft University of Technology
 - name: bduisterhof@g.harvard.edu
 
 

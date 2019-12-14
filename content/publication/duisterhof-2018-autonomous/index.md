@@ -4,8 +4,4 @@ date: -01-01
 publishDate: 2019-12-14T16:54:36.694834Z
 authors: ["Bart Duisterhof", "GCHE de Croon"]
 publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*TC*"
----
-
+abstract: "In the field of robotics, a major challenge is extending the flight range of micro aerial vehicles.One way to extend the range is by charging batteries with solar arrays on the ground, while resting on intermediate landing positions.   The solution we propose in this study differentiates itself from other solutions as it does not focus onimproving UAV efficiency but rather on finding the most efficient landing position. In particular,an algorithm is developed to show the usefulnessof the approach.  This algorithm makes uses ofthe sonar sensor on board of the Parrot Bebop 1drone in combination with an OptiTrack systemto scan the environment for potential landing opportunities.   After  these  measurements  are  discretized on a 2D grid, analysis is carried out witha sun position predicting model.  Finally, a landing  position  is  chosen  within  the  scanned  areaand the drone will land accordingly.Little  is  known  on  whether  a  solar  poweredcharge on the ground could be effective in a limited period of time. We present a coarse analysis,showing that the DelftaCopter with solar arrayson its wings charges its batteries in 1.3 days with relatively cheap solar cells in Africa or Australia.Future work includes the use of computer visioninstead of sonar as well as the ensurance of a safelanding position using vision."
