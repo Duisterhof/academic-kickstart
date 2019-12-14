@@ -74,6 +74,4 @@ user_groups:
 - Visitors
 ---
 
- Motivated  and  experienced  student  in  the  field  of  autonomous  aerial  robots.   Keen  to  contribute  to
-the  field  by  enabling  the  next  generation  of  fully  autonomous  robots.   My  interest  lies  in  applying
-hardware-software co-design to execute expensive algorithms within strict resource constraints.
+ I am a motivated  and  experienced  student  in  the  field  of  autonomous  aerial  robots, keen  to  contribute  to the  field  by  enabling  the  next  generation  of  fully  autonomous  robots. My  interests lie in  applying hardware-software co-design, to execute expensive algorithms within strict resource constraints. So far, my research has focused on fully autonomous flight of the <a href="http://www.delfly.nl/">DelFly Nimble</a> and  <a href="https://bart-ai.com/publication/duisterhof-2019-learning/">deep reinforcement learning-based navigation of a stock CrazyFlie.</a>
