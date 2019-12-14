@@ -30,6 +30,9 @@ education:
   - course: M.Sc. in Control and Simulation (AE)
     institution: Delft University of Technology
     year: 2020
+  - course: Exchange Student
+    institution: Georgia Institute of Technology
+    year: 2017
   - course: BSc in Aerospace Engineering
     institution: Delft University of Technology
     year: 2018
@@ -41,10 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:b.p.duisterhof@student.tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/BDuisterhof
+  link: https://www.linkedin.com/in/duisterhof/
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/BDuisterhof
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LLsYMFYAAAAJ&hl=en&oi=ao
