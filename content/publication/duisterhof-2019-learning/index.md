@@ -8,8 +8,8 @@ abstract: "Nano drones are uniquely equipped for fully autonomous applications d
 featured: false
 publication: "*TC*"
 links:
-url_video: "https://www.youtube.com/watch?v=wmVKbX7MOnU&t"
+url_video: "https://www.youtube.com/watch?v=wmVKbX7MOnU"
 url_code: "https://github.com/harvard-edge/source-seeking"
 ---
-{{< youtube wmVKbX7MOnU&t >}}
+{{< youtube wmVKbX7MOnU >}}
 
