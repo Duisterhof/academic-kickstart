@@ -17,15 +17,16 @@ organizations:
 - name: Harvard University
   url: ""
 - name: Delft University of Technology
+- name: bduisterhof@g.harvard.edu
 
-  
 
 # Short bio (displayed in user profile at end of posts)
 bio:  Motivated  and  experienced  student  in  the  field  of  autonomous  aerial  robots.   
 
 interests:
-- Resource constrained aerial robots
-- AI on edge
+- Resource Constrained Robots
+- AI on Edge
+- Deep Reinforcement Learning
 - High-throughput computing
 
 education:
@@ -45,9 +46,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:b.p.duisterhof@student.tudelft.nl'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/duisterhof/

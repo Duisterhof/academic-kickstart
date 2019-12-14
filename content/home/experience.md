@@ -30,6 +30,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Honors Student and Studen Researcher"
   company = "Delft Unversity of Technology"
+  
   company_url = ""
   location = "Delft, The Netherlands"
   date_start = "2016-07-01"
