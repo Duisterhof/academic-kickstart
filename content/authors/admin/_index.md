@@ -16,6 +16,9 @@ role: Visiting Research Fellow
 organizations:
 - name: Harvard University
   url: ""
+- name: Delft University of Technology
+
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio:  Motivated  and  experienced  student  in  the  field  of  autonomous  aerial  robots.   

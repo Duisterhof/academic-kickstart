@@ -7,5 +7,10 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: ""
+links:
+url_code: "https://github.com/harvard-edge/source-seeking"
+url_video: "https://www.youtube.com/watch?v=wmVKbX7MOnU"
+
+
 ---
 
