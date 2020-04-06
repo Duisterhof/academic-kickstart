@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Delft, The Netherlands"
   date_start = "2016-07-01"
-  date_end = "2019-05-01"
+  date_end = "2020-09-01"
   description = """"""
 
 +++

@@ -10,26 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Visiting Research Fellow
+role: Student Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard University
+- name: MAVLab
   url: ""
-- name: bduisterhof@g.harvard.edu
+- name: b.p.duisterhof@student.tudelft.nl
 
 
 # Short bio (displayed in user profile at end of posts)
 bio:  Motivated  and  experienced  student  in  the  field  of  autonomous  aerial  robots.   
 
 interests:
-- Resource Constrained Robots
-- AI on Edge
-- High-Throughput Computing
 - Deep Reinforcement Learning
 - Neuroevolution
 - Swarming
-
+- Resource Constrained Robots
+- AI on Edge
+- High-Throughput Computing
 
 education:
   courses:  
