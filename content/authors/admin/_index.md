@@ -10,13 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Student Researcher
+role: Robotics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: MAVLab
-  url: ""
-- name: b.p.duisterhof@student.tudelft.nl
+
+- name: b.p.duisterhof@gmail.com
 
 
 # Short bio (displayed in user profile at end of posts)
